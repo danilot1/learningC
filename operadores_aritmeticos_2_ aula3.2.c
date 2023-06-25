@@ -19,5 +19,5 @@ int main(){
 	dado *=10;
 	printf("Dado depois de multiplicar por 10: %i \n",dado);
 	
-	
+	return 0;
 }
