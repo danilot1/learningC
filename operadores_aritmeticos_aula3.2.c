@@ -20,6 +20,6 @@
 	printf("Divisao: %d \n", divis);
 	
 	
-	
+	return 0;
 	
  }
