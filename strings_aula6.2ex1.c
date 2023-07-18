@@ -15,4 +15,5 @@ int main (){
 	fflush(stdin);
 	
 	printf("Resultado: %s\n\n", s);
+	return 0;
 }
