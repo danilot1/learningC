@@ -10,5 +10,5 @@ int main () {
 	}
 	
 	printf("Resultado: %.0f\n", s/5) ;
-	
+	return 0;
 }
