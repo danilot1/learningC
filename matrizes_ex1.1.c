@@ -18,5 +18,6 @@ int main(){
 	
 	printf("Imprimindo a primeira linha:\n");
 	printf("%d %d %d\n", mat[0][0], mat[0][1], mat[0][2]);
-	 
+
+	return 0;
 }
