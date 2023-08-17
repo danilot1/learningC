@@ -14,6 +14,7 @@ int main(void) {
     printf("%d ", name2[i2]);
   }
     printf("\n");
+  // printando os numeros em caracteres 
   // 68  = D,  97 = a, 110 = n,  105 = i, 108 = l, 111= o.
   int name3[6] = {68, 97, 110, 105, 108, 111};
   int i3;
